@@ -1,0 +1,6 @@
+inputs:
+  nixpkgs:
+    url: github:NixOS/nixpkgs/nixpkgs-unstable
+  nix-filter:
+    url: github:numtide/nix-filter
+# can't point to the local modules here as it's used as a template

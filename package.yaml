@@ -1,0 +1,10 @@
+name: Top
+version: 0.1
+description: devenv vs nix-filter bug
+
+executables:
+  Top:
+    main: Top
+    source-dirs: .
+    dependencies:
+      - base
